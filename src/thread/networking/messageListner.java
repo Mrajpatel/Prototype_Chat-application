@@ -14,10 +14,7 @@ import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author RAJ
- */
+
 public class messageListner extends Thread {
 
     ServerSocket server;
