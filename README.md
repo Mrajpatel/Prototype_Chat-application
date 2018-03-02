@@ -20,3 +20,7 @@ The requirements consists of three main phases:
   Testing-
           Virtual machine
           host machine
+          
+          
+# the beta version is runnig perfectly on localhost
+# personal/static ip-address is required to make it online          
